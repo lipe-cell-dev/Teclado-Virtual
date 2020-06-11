@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.8" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
+                      <Component id="unbnt" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="a1" min="-2" pref="44" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="a2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="a3" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="a4" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="a5" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="a6" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="a7" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="a8" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="a9" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="a0" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="minbnt" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="mabnt" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="bkbnt" max="32767" attributes="0"/>
+                  </Group>
+                  <Component id="Frose" alignment="0" max="32767" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="capbnt" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="abnt" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="sbnt" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="dbnt" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="fbnt" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="gbnt" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="hbnt" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jbnt" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="kbnt" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="lbnt" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="cirbnt" min="-2" pref="41" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="lebnt" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="shifbnt" min="-2" pref="61" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="zbnt" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="xbnt" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="backbnt" min="-2" pref="292" max="-2" attributes="0"/>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="cbnt" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="vbnt" min="-2" pref="39" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="bbnt" min="-2" pref="38" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="nbnt" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="mbnt" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="VIBNT" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="poobnt" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="tdbnt" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="hjbnt" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="80" max="-2" attributes="0"/>
+                                      <Component id="upbnt" min="-2" pref="49" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="leftbnt" min="-2" pref="42" max="-2" attributes="0"/>
+                                              <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                                              <Component id="rightbnt" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="1" attributes="0">
+                                              <EmptySpace pref="39" max="-2" attributes="0"/>
+                                              <Component id="downbnt" min="-2" pref="49" max="-2" attributes="0"/>
+                                              <EmptySpace min="-2" pref="43" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="tabbnt" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="9" max="-2" attributes="0"/>
+                              <Component id="qbnt" min="-2" pref="44" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="wbnt" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="ebnt" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" max="-2" attributes="0"/>
+                              <Component id="rbnt" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" max="-2" attributes="0"/>
+                              <Component id="tbnt" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="ybnt" min="-2" pref="39" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="ubnt" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="ibnt" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="obnt" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" max="-2" attributes="0"/>
+                              <Component id="pbnt" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="babnt" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                              <Component id="ribnt" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Entbnt" min="-2" pref="204" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="escbnt" min="-2" pref="52" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="AreaPng" min="-2" pref="565" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                              <Component id="pcrbnt" min="-2" pref="54" max="-2" attributes="0"/>
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Component id="prrbnt" min="-2" pref="40" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="escbnt" min="-2" pref="47" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="prrbnt" pref="22" max="32767" attributes="0"/>
+                                  <Component id="pcrbnt" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="AreaPng" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="Frose" min="-2" pref="55" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                      <Component id="a7" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                      <Component id="a8" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                      <Component id="a4" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                      <Component id="a5" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                      <Component id="a6" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                      <Component id="bkbnt" alignment="0" max="32767" attributes="0"/>
+                      <Component id="mabnt" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                      <Component id="minbnt" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                      <Component id="a0" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                      <Component id="a3" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                      <Component id="unbnt" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                      <Component id="a1" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                      <Component id="a9" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                      <Component id="a2" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="103" alignment="0" groupAlignment="0" attributes="0">
+                                  <Component id="ribnt" alignment="1" min="-2" pref="44" max="-2" attributes="0"/>
+                                  <Component id="pbnt" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="babnt" min="-2" pref="44" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="tabbnt" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="rbnt" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="tbnt" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="ubnt" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="ibnt" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="obnt" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                  <Component id="qbnt" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                                  <Component id="wbnt" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                                  <Component id="ebnt" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="ybnt" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                              <Component id="capbnt" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="sbnt" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="dbnt" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="fbnt" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="gbnt" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="hbnt" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="jbnt" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="kbnt" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="lbnt" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="abnt" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                          <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                              <Component id="lebnt" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="cirbnt" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="zbnt" alignment="0" max="32767" attributes="0"/>
+                          <Component id="shifbnt" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                          <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                              <Component id="tdbnt" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="poobnt" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="VIBNT" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="mbnt" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="nbnt" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="xbnt" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="cbnt" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="vbnt" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="bbnt" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="hjbnt" alignment="0" min="-2" pref="44" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="backbnt" min="-2" pref="44" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="Entbnt" min="-2" pref="49" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="upbnt" min="-2" pref="34" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="leftbnt" min="-2" pref="34" max="-2" attributes="0"/>
+                          <Component id="rightbnt" min="-2" pref="34" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+                      <Component id="downbnt" min="-2" pref="34" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="unbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;&quot;&lt;br&gt;&apos;&lt;htrml/&gt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="unbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="a4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;$&lt;br&gt;4&lt;html/&gt;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="a3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;#&lt;br&gt;3&lt;html/&gt;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="a2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;@&lt;br&gt;2&lt;html/&gt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="a2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="a5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;%&lt;br&gt;5&lt;html/&gt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="a5ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="a6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;&#xa8;&lt;br&gt;6&lt;html/&gt;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="a1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;!&lt;br&gt;9&lt;/html&gt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="a1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="a7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;&amp;&lt;br&gt;7&lt;html/&gt;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="bkbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="BACKSPACE"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bkbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="mabnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;+&lt;br&gt;=&lt;html/&gt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mabntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="minbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;_&lt;br&gt;-&lt;html/&gt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="minbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="a0">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;)&lt;br&gt;0&lt;html/&gt;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="a9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;(&lt;br&gt;9&lt;html/&gt;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="a8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;*&lt;br&gt;8&lt;html/&gt;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="qbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Q"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="qbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="capbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CAPS"/>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="capbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="abnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="abntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="sbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="S"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="sbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="dbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="D"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="dbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="fbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="F"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="fbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="gbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="G"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="gbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="tdbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;:&lt;br&gt;;&lt;html/&gt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="tdbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="hbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="H"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="hbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="kbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="K"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="kbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="J"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="upbnt">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/teclado/if_icon-arrow-up-b_211623 (2).png"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="upbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="lbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="L"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="lbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="Entbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="ENTER"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="EntbntActionPerformed"/>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="EntbntKeyPressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="poobnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;&gt;&lt;br&gt;.&lt;html/&gt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="poobntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="backbnt">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="backbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="hjbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;?&lt;br&gt;/&lt;html/&gt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="hjbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="VIBNT">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt; &amp;lt &lt;br&gt;.&lt;/html&gt;"/>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="VIBNTActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="cirbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;^&lt;br&gt;~&lt;htrml/&gt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cirbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="tabbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Tab"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="tabbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="ebnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="E"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ebntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="wbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="W"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="wbntActionPerformed"/>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="wbntKeyPressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="rbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="R"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="tbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="T"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="tbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="ybnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Y"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ybntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="ubnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="U"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ubntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="ibnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="I"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ibntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="obnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="O"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="obntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="pbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="P"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="pbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="babnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;`&lt;br&gt;&#xb4;&lt;htrml/&gt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="babntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="cbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="C"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="bbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="B"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="mbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="M"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="nbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="N"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="nbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="vbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="V"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="vbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="ribnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;{&lt;br&gt;[&lt;htrml/&gt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ribntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="xbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="X"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="xbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="zbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Z"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="zbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="lebnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;}&lt;br&gt;]&lt;htrml/&gt;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="lebntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="shifbnt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="SHIFT"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="shifbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="leftbnt">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/teclado/if_icon-arrow-left-b_211617 (2).png"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="leftbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="downbnt">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/teclado/if_icon-arrow-down-b_211614 (3).png"/>
+        </Property>
+      </Properties>
+      <AccessibilityProperties>
+        <Property name="AccessibleContext.accessibleDescription" type="java.lang.String" value=""/>
+      </AccessibilityProperties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="downbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="rightbnt">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/teclado/if_icon-play_211876 (5).png"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rightbntActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Frose">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="FroseActionPerformed"/>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="FroseKeyPressed"/>
+        <EventHandler event="keyReleased" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="FroseKeyReleased"/>
+        <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="FroseKeyTyped"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="escbnt">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/teclado/if_icon-ios7-gear_211751.png"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="AreaPng">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="                                                                    SELECIONE UM TEXTO PARA DIGITAR                "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="prrbnt">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Aperte TAB"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Quantidade de Erro(s):"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Porcentagem de Erro(s):"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="pcrbnt">
+    </Component>
+  </SubComponents>
+</Form>
